@@ -1,5 +1,37 @@
 [
   {
+    "trend_arrow": "45_UP", 
+    "display_time": "2016-08-31T20:50:50-07:00", 
+    "noise": 1, 
+    "direction": "FortyFiveUp", 
+    "system_time": "2016-09-01T02:45:32-07:00", 
+    "sgv": 148, 
+    "dateString": "2016-08-31T20:50:50-07:00", 
+    "device": "openaps://cgm", 
+    "unfiltered": 153728, 
+    "rssi": 185, 
+    "date": 1472701850000.0, 
+    "filtered": 144288, 
+    "type": "sgv", 
+    "glucose": 148
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "display_time": "2016-08-31T20:45:50-07:00", 
+    "noise": 1, 
+    "direction": "FortyFiveUp", 
+    "system_time": "2016-09-01T02:40:32-07:00", 
+    "sgv": 143, 
+    "dateString": "2016-08-31T20:45:50-07:00", 
+    "device": "openaps://cgm", 
+    "unfiltered": 148576, 
+    "rssi": 193, 
+    "date": 1472701550000.0, 
+    "filtered": 138304, 
+    "type": "sgv", 
+    "glucose": 143
+  }, 
+  {
     "trend_arrow": "FLAT", 
     "display_time": "2016-08-31T20:40:50-07:00", 
     "noise": 1, 
@@ -72,40 +104,8 @@
     "sgv": 124, 
     "dateString": "2016-08-31T20:25:52-07:00", 
     "device": "openaps://cgm", 
-    "unfiltered": 120240, 
-    "rssi": 181, 
     "date": 1472700352000.0, 
-    "filtered": 115584, 
     "type": "sgv", 
     "glucose": 124
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-08-31T20:20:50-07:00", 
-    "noise": 1, 
-    "direction": "Flat", 
-    "system_time": "2016-09-01T02:15:32-07:00", 
-    "sgv": 102, 
-    "dateString": "2016-08-31T20:20:50-07:00", 
-    "device": "openaps://cgm", 
-    "unfiltered": 118400, 
-    "rssi": 172, 
-    "date": 1472700050000.0, 
-    "filtered": 111856, 
-    "type": "sgv", 
-    "glucose": 102
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-08-31T20:15:50-07:00", 
-    "noise": 1, 
-    "direction": "Flat", 
-    "system_time": "2016-09-01T02:10:32-07:00", 
-    "sgv": 101, 
-    "dateString": "2016-08-31T20:15:50-07:00", 
-    "device": "openaps://cgm", 
-    "date": 1472699750000.0, 
-    "type": "sgv", 
-    "glucose": 101
   }
 ]
