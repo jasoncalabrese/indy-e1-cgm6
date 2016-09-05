@@ -1,6 +1,22 @@
 [
   {
     "trend_arrow": "FLAT", 
+    "system_time": "2016-09-05T17:09:46", 
+    "noise": 1, 
+    "direction": "Flat", 
+    "sgv": 106, 
+    "display_time": "2016-09-05T10:20:43", 
+    "date": 1473096043000.0, 
+    "dateString": "2016-09-05T10:20:43", 
+    "unfiltered": 113152, 
+    "filtered": 115184, 
+    "device": "openaps://indy-e1/cgm", 
+    "rssi": 188, 
+    "type": "sgv", 
+    "glucose": 106
+  }, 
+  {
+    "trend_arrow": "FLAT", 
     "system_time": "2016-09-05T17:04:46", 
     "noise": 1, 
     "direction": "Flat", 
@@ -10,7 +26,7 @@
     "dateString": "2016-09-05T10:15:43", 
     "unfiltered": 115088, 
     "filtered": 113904, 
-    "device": "openaps://cgm", 
+    "device": "openaps://indy-e1/cgm", 
     "rssi": 205, 
     "type": "sgv", 
     "glucose": 108
@@ -26,7 +42,7 @@
     "dateString": "2016-09-05T10:10:43", 
     "unfiltered": 117088, 
     "filtered": 111952, 
-    "device": "openaps://cgm", 
+    "device": "openaps://indy-e1/cgm", 
     "rssi": 179, 
     "type": "sgv", 
     "glucose": 111
@@ -42,7 +58,7 @@
     "dateString": "2016-09-05T10:05:45", 
     "unfiltered": 112096, 
     "filtered": 110064, 
-    "device": "openaps://cgm", 
+    "device": "openaps://indy-e1/cgm", 
     "rssi": 931, 
     "type": "sgv", 
     "glucose": 105
@@ -58,7 +74,7 @@
     "dateString": "2016-09-05T10:00:43", 
     "unfiltered": 110736, 
     "filtered": 108656, 
-    "device": "openaps://cgm", 
+    "device": "openaps://indy-e1/cgm", 
     "rssi": 207, 
     "type": "sgv", 
     "glucose": 104
@@ -74,25 +90,9 @@
     "dateString": "2016-09-05T09:55:43", 
     "unfiltered": 110576, 
     "filtered": 107552, 
-    "device": "openaps://cgm", 
+    "device": "openaps://indy-e1/cgm", 
     "rssi": 199, 
     "type": "sgv", 
     "glucose": 103
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-09-05T16:39:46", 
-    "noise": 1, 
-    "direction": "Flat", 
-    "sgv": 100, 
-    "display_time": "2016-09-05T09:50:43", 
-    "date": 1473094243000.0, 
-    "dateString": "2016-09-05T09:50:43", 
-    "unfiltered": 107680, 
-    "filtered": 106176, 
-    "device": "openaps://cgm", 
-    "rssi": 200, 
-    "type": "sgv", 
-    "glucose": 100
   }
 ]
